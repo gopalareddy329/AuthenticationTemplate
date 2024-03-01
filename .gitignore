@@ -22,6 +22,4 @@ frontend/npm-debug.log*
 frontend/yarn-debug.log*
 frontend/yarn-error.log*
 
-backend/api/__pycache__
-backend/api/migrations
-backend/backend/__pycache__
+
